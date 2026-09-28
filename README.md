@@ -30,13 +30,13 @@ pkg install git python -y
 git clone https://github.com/dapji-sync/am-generator-prem.git
 cd am-generator-prem
 pip install -r requirements.txt
-python3 generator.py
+python3 am-generator.py
 ```
 
 > Untuk run lagi berikutnya, cukup:
 > ```bash
 > cd am-generator-prem
-> python3 generator.py
+> python3 am-generator.py
 > ```
 
 ---
